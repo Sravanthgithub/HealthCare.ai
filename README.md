@@ -21,5 +21,9 @@
 * Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `Streamlit`
 * Link - https://diabetesclassifier0910.herokuapp.com
 
+## Here are some attached screenshots of our App
+
+![image](https://user-images.githubusercontent.com/77894804/139586630-5bff6f04-7a0e-4938-a218-bacf27420cc0.png)
+
 
 
