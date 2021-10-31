@@ -12,14 +12,14 @@
 # Model - 1
 ## Predicting whether someone has Heart Disease or not with Machine Learning
 * Language - `Python`, `HTML`, `CSS`
-* Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Streamlit`
+* Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Streamlit`, `Pickle`
 * Link - https://heartcare-ai.herokuapp.com
 * Info - We trained the model with some powerful machine learning techniques and used the one with highest accuracy. This basically takes some inputs from the user (related to medical diagnosis/reports) and thus the prediction is made.
 
 # Model - 2
 ## Predicting whether someone has Diabetes or not with Machine Learning
 * Language - `Python`, `HTML`, `CSS`
-* Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `Streamlit`
+* Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `Streamlit`, `Pickle`
 * Link - https://diabetesclassifier0910.herokuapp.com
 * Info - We trained the model with some powerful machine learning techniques and used the one with highest accuracy. This basically takes some inputs from the user (related to medical diagnosis/reports) and thus the prediction is made.
 
