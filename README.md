@@ -31,6 +31,8 @@
 ![image](https://user-images.githubusercontent.com/77894804/139586830-4ec2b54a-8bfb-4752-bc80-d73bf9212906.png)
 ![image](https://user-images.githubusercontent.com/77894804/139586847-d7ee4fe9-98d2-45e2-a158-b193681bfbca.png)
 ![image](https://user-images.githubusercontent.com/77894804/139586916-af4d9b73-e14b-40c6-b4c8-662c05700d66.png)
+![image](https://user-images.githubusercontent.com/77894804/139589288-29974936-4ee0-4cf7-a281-25f0e2e00280.png)
+
 
 ### This is how the prediction look like
 ![image](https://user-images.githubusercontent.com/77894804/139586902-ea0cf97d-26f0-4d69-961a-084cdbd101d8.png)
