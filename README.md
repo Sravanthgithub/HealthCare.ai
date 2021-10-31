@@ -23,6 +23,8 @@
 * Link - https://diabetesclassifier0910.herokuapp.com
 * Info - We trained the model with some powerful machine learning techniques and used the one with highest accuracy. This basically takes some inputs from the user (related to medical diagnosis/reports) and thus the prediction is made.
 
+### Team name -  Slayers
+
 ## Here are some attached screenshots of our App
 
 ![image](https://user-images.githubusercontent.com/77894804/139586630-5bff6f04-7a0e-4938-a218-bacf27420cc0.png)
