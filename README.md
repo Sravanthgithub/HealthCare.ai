@@ -11,8 +11,8 @@ Link for our App - https://sravanthgithub.github.io/HealthCare.ai/
 
 # Model - 1
 ## Predicting whether someone has Heart Disease or not with Machine Learning
-Language - `Python`
-Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Streamlit`
+* Language - `Python`
+* Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Streamlit`
 Link - https://heartcare-ai.herokuapp.com
 
 # Model - 2
