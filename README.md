@@ -4,6 +4,8 @@
 
 ## Link for our App - https://sravanthgithub.github.io/web-page/
 
+## Team name -  Slayers
+
 ## Required dependencies to run our App 
 * 1 . Internet
 * 2 . Browser
@@ -22,8 +24,6 @@
 * Modules used - `Numpy`, `Pandas`, `Matplotlib`, `Scikit-learn`, `Streamlit`, `Pickle`
 * Link - https://diabetesclassifier0910.herokuapp.com
 * Info - We trained the model with some powerful machine learning techniques and used the one with highest accuracy. This basically takes some inputs from the user (related to medical diagnosis/reports) and thus the prediction is made.
-
-### Team name -  Slayers
 
 ## Here are some attached screenshots of our App
 
