@@ -5,6 +5,7 @@
 ## Link for our App - https://sravanthgithub.github.io/web-page/
 
 ## Team name -  Slayers
+## Team Members - Sravanth Kurmala, Rushendra Sidibomma, Pranjay Gupta
 
 ## Required dependencies to run our App 
 * 1 . Internet
